@@ -307,6 +307,46 @@ dataSet[dataSetVersion].characterData = [
       cat: ["v"],
       season: ["s2"]
     }
-  }
+  },
+  {
+    name: "Hiryu Rin",
+    img: "188PqQN.png",
+    opts: {
+      series: [ "1b" ],
+      stage: ["s2"]
+    }
+  },
+  {
+    name: "Hitoshi Shinsou",
+    img: "U2Wquik.png",
+    opts: {
+      cat: [ "ua" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Hound Dog",
+    img: "kwH3nbk.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Ibara Shiozaki",
+    img: "aI5RnIz.png",
+    opts: {
+      cat: ["1b"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Inasa Yoarashi",
+    img: "pdPE5o7.png",
+    opts: {
+      cat: ["nua"],
+      season: ["s3"]
+    }
+  },
   
 ];
