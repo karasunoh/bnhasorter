@@ -1027,6 +1027,45 @@ dataSet[dataSetVersion].characterData = [
       cat: ["1a"],
       season: ["s1"]
     }
+  },{
+    name: "Tetsutetsu Tetsutetetsu",
+    img: "GtKQsdX.png",
+    opts: {
+      series: [ "1b" ],
+      stage: ["s2"]
+    }
+  },
+  {
+    name: "Tiger",
+    img: "xZqHr3H.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Togaru Kamakiri",
+    img: "TbXe1OR.png",
+    opts: {
+      cat: [ "1b" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Tomura Shigaraki",
+    img: "LkdW07l.png",
+    opts: {
+      cat: ["v"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Tooru Hagakure",
+    img: "SieVfn6.png",
+    opts: {
+      cat: ["1a"],
+      season: ["s1"]
+    }
   },
   
 ];
