@@ -428,5 +428,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s2"]
     }
   },
+  {
+    name: "Kinoko Komori",
+    img: "p8ur7Qn.png",
+    opts: {
+      series: [ "1b" ],
+      stage: ["s2"]
+    }
+  },
+  {
+    name: "Koji Koda",
+    img: "eO5RKN6.png",
+    opts: {
+      cat: [ "1a" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Kojiro Bondo",
+    img: "KxcplUC.png",
+    opts: {
+      cat: [ "1b" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Kosei Tsuburaba",
+    img: "M6jG4nC.png",
+    opts: {
+      cat: ["1b"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Kota Izumi",
+    img: "Cp5J9jT.png",
+    opts: {
+      cat: ["civ"],
+      season: ["s3"]
+    }
+  },
   
 ];
