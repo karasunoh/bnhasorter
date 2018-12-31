@@ -107,5 +107,45 @@ dataSet[dataSetVersion].characterData = [
       series: [ "h" ],
       stage: ["s2"]
     }
+  },
+  {
+    name: "Dabi",
+    img: "Oy9r7QQ.png",
+    opts: {
+      cat: [ "v" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Dadan Tadan",
+    img: "nHUkLfx.png",
+    opts: {
+      cat: [ "nua" ],
+      season: ["ovamov"]
+    }
+  },
+  {
+    name: "David Shield",
+    img: "rauTeQp.png",
+    opts: {
+      cat: ["civ"],
+      season: ["ovamov"]
+    }
+  },
+  {
+    name: "Death Arms",
+    img: "6KbXHHS.png",
+    opts: {
+      cat: ["h"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Denki Kaminari",
+    img: "6d3D6xE.png",
+    opts: {
+      series: [ "1a" ],
+      stage: ["s1"]
+    }
   }
 ];
