@@ -187,5 +187,45 @@ dataSet[dataSetVersion].characterData = [
       cat: ["h"],
       season: ["s1"]
     }
+  },
+      {
+    name: "Eri",
+    img: "ccsW4VJ.png",
+    opts: {
+      series: [ "civ" ],
+      stage: ["manga"]
+    }
+  },
+  {
+    name: "Fat Gum",
+    img: "bIB0UYx.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["manga"]
+    }
+  },
+  {
+    name: "Fumikage Tokoyami",
+    img: "JaCCmw4.png",
+    opts: {
+      cat: [ "1a" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Fuyumi Todoroki",
+    img: "JqAxAVn.png",
+    opts: {
+      cat: ["civ"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Gang Orca",
+    img: "BZK8uQW.png",
+    opts: {
+      cat: ["h"],
+      season: ["s3"]
+    }
   }
 ];
