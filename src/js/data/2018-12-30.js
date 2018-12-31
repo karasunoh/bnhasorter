@@ -147,5 +147,45 @@ dataSet[dataSetVersion].characterData = [
       series: [ "1a" ],
       stage: ["s1"]
     }
+  },
+    {
+    name: "Ectoplasm",
+    img: "zJfcqIu.png",
+    opts: {
+      series: [ "h" ],
+      stage: ["s1"]
+    }
+  },
+  {
+    name: "Edgeshot",
+    img: "gfgsr9X.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Eijiro Kirishima",
+    img: "IE5dXQH.png",
+    opts: {
+      cat: [ "1a" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Endeavor",
+    img: "yhIBGjo.png",
+    opts: {
+      cat: ["h"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Eraserhead",
+    img: "HfSUV2M.png",
+    opts: {
+      cat: ["h"],
+      season: ["s1"]
+    }
   }
 ];
