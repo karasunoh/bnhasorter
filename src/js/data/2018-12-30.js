@@ -188,7 +188,7 @@ dataSet[dataSetVersion].characterData = [
       season: ["s1"]
     }
   },
-      {
+  {
     name: "Eri",
     img: "ccsW4VJ.png",
     opts: {
@@ -227,5 +227,46 @@ dataSet[dataSetVersion].characterData = [
       cat: ["h"],
       season: ["s3"]
     }
+  },
+  {
+    name: "Ganma Asui",
+    img: "uFrvS0R.png",
+    opts: {
+      series: [ "civ" ],
+      stage: ["ovamov"]
+    }
+  },
+  {
+    name: "Gentle Criminal",
+    img: "yCbH5Qh.png",
+    opts: {
+      cat: [ "v" ],
+      season: ["manga"]
+    }
+  },
+  {
+    name: "Gigantomachia",
+    img: "uGYWGiq.png",
+    opts: {
+      cat: [ "v" ],
+      season: ["manga"]
+    }
+  },
+  {
+    name: "Giran",
+    img: "BG3Hn40.png",
+    opts: {
+      cat: ["v"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Gran Torino",
+    img: "ymxKZ8b.png",
+    opts: {
+      cat: ["h"],
+      season: ["s2"]
+    }
   }
+  
 ];
