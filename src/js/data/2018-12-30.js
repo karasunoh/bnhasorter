@@ -908,5 +908,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s1"]
     }
   },
+  {
+    name: "Satsuki Asui",
+    img: "qcukfn1.png",
+    opts: {
+      series: [ "civ" ],
+      stage: ["ovamov"]
+    }
+  },
+  {
+    name: "Seiji Shishikura",
+    img: "X73OPwo.png",
+    opts: {
+      cat: [ "nua" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Selkie",
+    img: "qPOGXS9.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Sen Kaibara",
+    img: "UVbnWnN.png",
+    opts: {
+      cat: ["1b"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Setsuna Tokage",
+    img: "https://i.imgur.com/MA0lVi1.png",
+    opts: {
+      cat: ["1b"],
+      season: ["s2"]
+    }
+  },
   
 ];
