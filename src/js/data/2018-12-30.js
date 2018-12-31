@@ -388,5 +388,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s2"]
     }
   },
+  {
+    name: "Juzo Honekuni",
+    img: "fZxGQ6b.png",
+    opts: {
+      series: [ "1b" ],
+      stage: ["s2"]
+    }
+  },
+  {
+    name: "Kamui Woods",
+    img: "IIG6OLf.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Kashiko Sekigai",
+    img: "wIRTwq7.png",
+    opts: {
+      cat: [ "nua" ],
+      season: ["ovamov"]
+    }
+  },
+  {
+    name: "Katsuki Bakugo",
+    img: "KXEBfoE.png",
+    opts: {
+      cat: ["1a"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Kenji Tsuragamae",
+    img: "SwU0R1Z.png",
+    opts: {
+      cat: ["civ"],
+      season: ["s2"]
+    }
+  },
   
 ];
