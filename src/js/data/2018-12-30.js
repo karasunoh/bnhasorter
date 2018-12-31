@@ -468,5 +468,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s3"]
     }
   },
+  {
+    name: "Kurogiri",
+    img: "SeAe0A5.png",
+    opts: {
+      series: [ "v" ],
+      stage: ["s1"]
+    }
+  },
+  {
+    name: "Kyotoku Jirou",
+    img: "I8DxWCT.png",
+    opts: {
+      cat: [ "civ" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Kyouka Jirou",
+    img: "KwuBHAI.png",
+    opts: {
+      cat: [ "1a" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "La Brava",
+    img: "CyL8DCJ.png",
+    opts: {
+      cat: ["v"],
+      season: ["manga"]
+    }
+  },
+  {
+    name: "Lock Rock",
+    img: "HCxZWe4.png",
+    opts: {
+      cat: ["h"],
+      season: ["manga"]
+    }
+  },
   
 ];
