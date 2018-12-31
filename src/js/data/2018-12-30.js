@@ -588,5 +588,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s1"]
     }
   },
+  {
+    name: "Mika Jirou",
+    img: "F0fwMqw.png",
+    opts: {
+      series: [ "civ" ],
+      stage: ["s3"]
+    }
+  },
+  {
+    name: "Mina Ashido",
+    img: "Ntw6jb9.png",
+    opts: {
+      cat: [ "1a" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Minoru Mineta",
+    img: "hWgDkCy.png",
+    opts: {
+      cat: [ "1a" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Mirio Togata",
+    img: "LggRZ4W.png",
+    opts: {
+      cat: ["ua"],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Miruko",
+    img: "I3KEVGe.png",
+    opts: {
+      cat: ["h"],
+      season: ["manga"]
+    }
+  },
   
 ];
