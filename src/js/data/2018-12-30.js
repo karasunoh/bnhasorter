@@ -1,4 +1,4 @@
-dataSetVersion = "2018-012-30"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2018-12-30"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -798,7 +798,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pixie Bob",
-    img: "https://i.imgur.com/CKXF1Wo.png",
+    img: "CKXF1Wo.png",
     opts: {
       cat: [ "h" ],
       season: ["s3"]
@@ -825,6 +825,46 @@ dataSet[dataSetVersion].characterData = [
     img: "NqhjlTQ.png",
     opts: {
       cat: ["h"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Ragdoll",
+    img: "BJmtMZR.png",
+    opts: {
+      series: [ "h" ],
+      stage: ["s3"]
+    }
+  },
+  {
+    name: "Recovery Girl",
+    img: "LGtQYhr.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Rei Todoroki",
+    img: "hEm3tJR.png",
+    opts: {
+      cat: [ "civ" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Reiko Yanagi",
+    img: "DtFruyK.png",
+    opts: {
+      cat: ["1b"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Rikido Sato",
+    img: "hSEdahW.png",
+    opts: {
+      cat: ["1a"],
       season: ["s1"]
     }
   },
