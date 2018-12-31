@@ -67,5 +67,45 @@ dataSet[dataSetVersion].characterData = [
       series: [ "ua" ],
       stage: ["manga"]
     }
+  },
+    {
+    name: "Bubble Girl",
+    img: "6aa4nSC.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Camie Utsushimi",
+    img: "5pS5YEU.png",
+    opts: {
+      cat: [ "nua" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Cementoss",
+    img: "CcZ0kfF.png",
+    opts: {
+      cat: ["h"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Centipeder",
+    img: "kqxg1js.png",
+    opts: {
+      cat: ["h"],
+      season: ["manga"]
+    }
+  },
+  {
+    name: "Crimson Riot",
+    img: "ehuOzQC.png",
+    opts: {
+      series: [ "h" ],
+      stage: ["s2"]
+    }
   }
 ];
