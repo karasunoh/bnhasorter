@@ -1027,7 +1027,8 @@ dataSet[dataSetVersion].characterData = [
       cat: ["1a"],
       season: ["s1"]
     }
-  },{
+  },
+  {
     name: "Tetsutetsu Tetsutetetsu",
     img: "GtKQsdX.png",
     opts: {
@@ -1065,6 +1066,46 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       cat: ["1a"],
       season: ["s1"]
+    }
+  },
+  {
+    name: "Tsuyu Asui",
+    img: "rS4DlvR.png",
+    opts: {
+      series: [ "1a" ],
+      stage: ["s1"]
+    }
+  },
+  {
+    name: "Twice",
+    img: "t1p61XL.png",
+    opts: {
+      cat: [ "v" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Uwabami",
+    img: "7rLRDcp.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Vlad King",
+    img: "n6O3GcP.png",
+    opts: {
+      cat: ["h"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Wolfram",
+    img: "O1woPgc.png",
+    opts: {
+      cat: ["v"],
+      season: ["ovamov"]
     }
   },
   
