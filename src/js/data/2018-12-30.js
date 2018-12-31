@@ -628,5 +628,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["manga"]
     }
   },
+  {
+    name: "Mitsuki Bakugo",
+    img: "oL9aZhJ.png",
+    opts: {
+      series: [ "civ" ],
+      stage: ["s3"]
+    }
+  },
+  {
+    name: "Miyagi Daikaku",
+    img: "uFIdAxt.png",
+    opts: {
+      cat: [ "civ" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Momo Yaoyorozu",
+    img: "ujo4T0x.png",
+    opts: {
+      cat: [ "1a" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Moonfish",
+    img: "q5xiDRA.png",
+    opts: {
+      cat: ["v"],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Mr. Compress",
+    img: "RKiwZuE.png",
+    opts: {
+      cat: ["v"],
+      season: ["s3"]
+    }
+  },
   
 ];
