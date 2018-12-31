@@ -267,6 +267,46 @@ dataSet[dataSetVersion].characterData = [
       cat: ["h"],
       season: ["s2"]
     }
+  },
+  {
+    name: "Gunhead",
+    img: "fAYLQnP.png",
+    opts: {
+      series: [ "h" ],
+      stage: ["s2"]
+    }
+  },
+  {
+    name: "Habuko Mongoose",
+    img: "RGPq6Uc.png",
+    opts: {
+      cat: [ "nua" ],
+      season: ["ovamov"]
+    }
+  },
+  {
+    name: "Hanta Sero",
+    img: "tcG9UaZ.png",
+    opts: {
+      cat: [ "1a" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Hawks",
+    img: "l4OUQ78.png",
+    opts: {
+      cat: ["h"],
+      season: ["manga"]
+    }
+  },
+  {
+    name: "Himiko Toga",
+    img: "tPicz1t.png",
+    opts: {
+      cat: ["v"],
+      season: ["s2"]
+    }
   }
   
 ];
