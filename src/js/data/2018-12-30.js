@@ -1108,5 +1108,53 @@ dataSet[dataSetVersion].characterData = [
       season: ["ovamov"]
     }
   },
+  {
+    name: "Yo Shindo",
+    img: "vxnr6MA.png",
+    opts: {
+      cat: ["nua"],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Yokumiro Mera",
+    img: "Ggg9mrj.png",
+    opts: {
+      series: [ "civ" ],
+      stage: ["s3"]
+    }
+  },
+  {
+    name: "Yosetsu Awase",
+    img: "KQhwoGz.png",
+    opts: {
+      cat: [ "1b" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Yui Kodai",
+    img: "971txmT.png",
+    opts: {
+      cat: [ "1b" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Yuga Aoyama",
+    img: "2SwKvLH.png",
+    opts: {
+      cat: ["1a"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Yuyu Haya",
+    img: "tJDVZEg.png",
+    opts: {
+      cat: ["ua"],
+      season: ["manga"]
+    }
+  }
   
 ];
