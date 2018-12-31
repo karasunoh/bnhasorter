@@ -988,5 +988,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s1"]
     }
   },
+  {
+    name: "Spinner",
+    img: "fP7G0zr.png",
+    opts: {
+      series: [ "v" ],
+      stage: ["s2"]
+    }
+  },
+  {
+    name: "Stain",
+    img: "BLwFUP2.png",
+    opts: {
+      cat: [ "v" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Tamaki Amajiki",
+    img: "Q9I0DfO.png",
+    opts: {
+      cat: [ "ua" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Tatami Nakagame",
+    img: "EPL5lqZ.png",
+    opts: {
+      cat: ["nua"],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Tenya Iida",
+    img: "X7onfqQ.png",
+    opts: {
+      cat: ["1a"],
+      season: ["s1"]
+    }
+  },
   
 ];
