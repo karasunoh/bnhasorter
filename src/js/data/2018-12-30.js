@@ -668,5 +668,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s3"]
     }
   },
+  {
+    name: "Ms. Joke",
+    img: "wcNzs1s.png",
+    opts: {
+      series: [ "h" ],
+      stage: ["s3"]
+    }
+  },
+  {
+    name: "Mt. Lady",
+    img: "Awyd5ep.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Muscular",
+    img: "agY8nD9.png",
+    opts: {
+      cat: [ "v" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Mustard",
+    img: "pJNyFWG.png",
+    opts: {
+      cat: ["v"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Nagamasa Moura",
+    img: "uoWdpaE.png",
+    opts: {
+      cat: ["nua"],
+      season: ["s3"]
+    }
+  },
   
 ];
