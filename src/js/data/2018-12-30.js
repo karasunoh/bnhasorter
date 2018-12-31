@@ -726,7 +726,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Natsuo Todoroki",
-    img: "https://i.imgur.com/mTcJ6Sy.png",
+    img: "mTcJ6Sy.png",
     opts: {
       cat: [ "civ" ],
       season: ["manga"]
@@ -746,6 +746,46 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       cat: ["ua"],
       season: ["s3"]
+    }
+  },
+  {
+    name: "Nezu",
+    img: "o23cbWt.png",
+    opts: {
+      series: [ "h" ],
+      stage: ["s1"]
+    }
+  },
+  {
+    name: "Nirengeki Shoda",
+    img: "6coLHMB.png",
+    opts: {
+      cat: [ "1b" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "No. 13",
+    img: "d5QmAX0.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Nomu",
+    img: "9d0uXB8.png",
+    opts: {
+      cat: ["v"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Ochaco Uraraka",
+    img: "rPMZuXo.png",
+    opts: {
+      cat: ["1a"],
+      season: ["s1"]
     }
   },
   
