@@ -704,7 +704,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Nagamasa Moura",
     img: "uoWdpaE.png",
     opts: {
-      cat: ["h"],
+      cat: ["nua"],
       season: ["s3"]
     }
   },
