@@ -702,9 +702,49 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nagamasa Moura",
-    img: "uoWdpaE.png",
+    img: "EXJlvwh.png",
     opts: {
-      cat: ["nua"],
+      cat: ["h"],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Nana Shimura",
+    img: "EXJlvwh.png",
+    opts: {
+      series: [ "h" ],
+      stage: ["s3"]
+    }
+  },
+  {
+    name: "Naomasa Tsukauchi",
+    img: "iV9In3w.png",
+    opts: {
+      cat: [ "civ" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Natsuo Todoroki",
+    img: "https://i.imgur.com/mTcJ6Sy.png",
+    opts: {
+      cat: [ "civ" ],
+      season: ["manga"]
+    }
+  },
+  {
+    name: "Neito Monoma",
+    img: "mEvAYqL.png",
+    opts: {
+      cat: ["1b"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Nejire Hado",
+    img: "jOwhW03.png",
+    opts: {
+      cat: ["ua"],
       season: ["s3"]
     }
   },
