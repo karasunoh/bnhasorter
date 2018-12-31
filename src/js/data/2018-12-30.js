@@ -868,5 +868,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s1"]
     }
   },
+  {
+    name: "Romero Fujimi",
+    img: "R2c9NbP.png",
+    opts: {
+      series: [ "nua" ],
+      stage: ["ovamov"]
+    }
+  },
+  {
+    name: "Ryukyu",
+    img: "VCwr8qi.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["manga"]
+    }
+  },
+  {
+    name: "Saiko Intelli",
+    img: "3tK3vBL.png",
+    opts: {
+      cat: [ "nua" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Samidare Asui",
+    img: "95Oydcl.png",
+    opts: {
+      cat: ["civ"],
+      season: ["ovamov"]
+    }
+  },
+  {
+    name: "Sansa Tamakawa",
+    img: "0ZVBQIz.png",
+    opts: {
+      cat: ["civ"],
+      season: ["s1"]
+    }
+  },
   
 ];
