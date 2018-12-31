@@ -348,5 +348,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s3"]
     }
   },
+  {
+    name: "Ingenium",
+    img: "WDBra2O.png",
+    opts: {
+      series: [ "h" ],
+      stage: ["s2"]
+    }
+  },
+  {
+    name: "Inko Midoriya",
+    img: "2JPImbP.png",
+    opts: {
+      cat: [ "civ" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Itsuka Kendo",
+    img: "lhbWU2j.png",
+    opts: {
+      cat: [ "1b" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Izuku Midoriya",
+    img: "O3TunjK.png",
+    opts: {
+      cat: ["1a"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Jurota Shishida",
+    img: "4ijf4qo.png",
+    opts: {
+      cat: ["1b"],
+      season: ["s2"]
+    }
+  },
   
 ];
