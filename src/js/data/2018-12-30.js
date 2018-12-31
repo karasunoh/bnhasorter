@@ -508,5 +508,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["manga"]
     }
   },
+  {
+    name: "Lunch Rush",
+    img: "dOmcjg5.png",
+    opts: {
+      series: [ "h" ],
+      stage: ["s1"]
+    }
+  },
+  {
+    name: "Magne",
+    img: "2aafk0m.png",
+    opts: {
+      cat: [ "v" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Mandalay",
+    img: "h1MQRpw.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Manga Fukidashi",
+    img: "vWJeLmi.png",
+    opts: {
+      cat: ["1b"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Masahiro Ojiro",
+    img: "YjJOYhA.png",
+    opts: {
+      cat: ["1a"],
+      season: ["s1"]
+    }
+  },
   
 ];
