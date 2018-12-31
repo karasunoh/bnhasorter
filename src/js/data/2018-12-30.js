@@ -942,10 +942,50 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Setsuna Tokage",
-    img: "https://i.imgur.com/MA0lVi1.png",
+    img: "MA0lVi1.png",
     opts: {
       cat: ["1b"],
       season: ["s2"]
+    }
+  },
+  {
+    name: "Shihai Kuroiro",
+    img: "tyRmCUd.png",
+    opts: {
+      series: [ "1b" ],
+      stage: ["s2"]
+    }
+  },
+  {
+    name: "Shouto Todoroki",
+    img: "s9xB96n.png",
+    opts: {
+      cat: [ "1a" ],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Sir Nighteye",
+    img: "GNAyBYi.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Sirius",
+    img: "0UX3wnT.png",
+    opts: {
+      cat: ["h"],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Snipe",
+    img: "mKmn5Dk.png",
+    opts: {
+      cat: ["h"],
+      season: ["s1"]
     }
   },
   
