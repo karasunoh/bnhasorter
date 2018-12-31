@@ -548,5 +548,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s1"]
     }
   },
+  {
+    name: "Masaru Bakugo",
+    img: "3bROdlE.png",
+    opts: {
+      series: [ "civ" ],
+      stage: ["s3"]
+    }
+  },
+  {
+    name: "Mei Hatsume",
+    img: "7Kg4ieK.png",
+    opts: {
+      cat: [ "ua" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Melissa Shield",
+    img: "3oaNdt4.png",
+    opts: {
+      cat: [ "civ" ],
+      season: ["ovamov"]
+    }
+  },
+  {
+    name: "Mezo Shoji",
+    img: "JUSLvnc.png",
+    opts: {
+      cat: ["1a"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Midnight",
+    img: "EurRl4d.png",
+    opts: {
+      cat: ["h"],
+      season: ["s1"]
+    }
+  },
   
 ];
