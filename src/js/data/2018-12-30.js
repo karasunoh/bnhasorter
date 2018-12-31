@@ -788,5 +788,45 @@ dataSet[dataSetVersion].characterData = [
       season: ["s1"]
     }
   },
+  {
+    name: "Overhaul",
+    img: "wMjkK0q.png",
+    opts: {
+      series: [ "v" ],
+      stage: ["s3"]
+    }
+  },
+  {
+    name: "Pixie Bob",
+    img: "https://i.imgur.com/CKXF1Wo.png",
+    opts: {
+      cat: [ "h" ],
+      season: ["s3"]
+    }
+  },
+  {
+    name: "Pony Tsunotori",
+    img: "pZj6xuq.png",
+    opts: {
+      cat: [ "1b" ],
+      season: ["s2"]
+    }
+  },
+  {
+    name: "Power Loader",
+    img: "9DFSLLG.png",
+    opts: {
+      cat: ["h"],
+      season: ["s1"]
+    }
+  },
+  {
+    name: "Present Mic",
+    img: "NqhjlTQ.png",
+    opts: {
+      cat: ["h"],
+      season: ["s1"]
+    }
+  },
   
 ];
