@@ -64,8 +64,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Bibimi Kenranzaki",
     img: "TyYxWgZ.png",
     opts: {
-      series: [ "ua" ],
-      stage: ["manga"]
+      cat: [ "ua" ],
+      season: ["manga"]
     }
   },
     {
@@ -104,8 +104,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Crimson Riot",
     img: "ehuOzQC.png",
     opts: {
-      series: [ "h" ],
-      stage: ["s2"]
+      cat: [ "h" ],
+      season: ["s2"]
     }
   },
   {
@@ -144,16 +144,16 @@ dataSet[dataSetVersion].characterData = [
     name: "Denki Kaminari",
     img: "6d3D6xE.png",
     opts: {
-      series: [ "1a" ],
-      stage: ["s1"]
+      cat: [ "1a" ],
+      season: ["s1"]
     }
   },
     {
     name: "Ectoplasm",
     img: "zJfcqIu.png",
     opts: {
-      series: [ "h" ],
-      stage: ["s1"]
+      cat: [ "h" ],
+      season: ["s1"]
     }
   },
   {
@@ -192,8 +192,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Eri",
     img: "ccsW4VJ.png",
     opts: {
-      series: [ "civ" ],
-      stage: ["manga"]
+      cat: [ "civ" ],
+      season: ["manga"]
     }
   },
   {
@@ -232,8 +232,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Ganma Asui",
     img: "uFrvS0R.png",
     opts: {
-      series: [ "civ" ],
-      stage: ["ovamov"]
+      cat: [ "civ" ],
+      season: ["ovamov"]
     }
   },
   {
@@ -272,8 +272,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Gunhead",
     img: "fAYLQnP.png",
     opts: {
-      series: [ "h" ],
-      stage: ["s2"]
+      cat: [ "h" ],
+      season: ["s2"]
     }
   },
   {
@@ -312,8 +312,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Hiryu Rin",
     img: "188PqQN.png",
     opts: {
-      series: [ "1b" ],
-      stage: ["s2"]
+      cat: [ "1b" ],
+      season: ["s2"]
     }
   },
   {
@@ -352,8 +352,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Ingenium",
     img: "WDBra2O.png",
     opts: {
-      series: [ "h" ],
-      stage: ["s2"]
+      cat: [ "h" ],
+      season: ["s2"]
     }
   },
   {
@@ -392,8 +392,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Juzo Honekuni",
     img: "fZxGQ6b.png",
     opts: {
-      series: [ "1b" ],
-      stage: ["s2"]
+      cat: [ "1b" ],
+      season: ["s2"]
     }
   },
   {
@@ -432,8 +432,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Kinoko Komori",
     img: "p8ur7Qn.png",
     opts: {
-      series: [ "1b" ],
-      stage: ["s2"]
+      cat: [ "1b" ],
+      season: ["s2"]
     }
   },
   {
@@ -472,8 +472,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Kurogiri",
     img: "SeAe0A5.png",
     opts: {
-      series: [ "v" ],
-      stage: ["s1"]
+      cat: [ "v" ],
+      season: ["s1"]
     }
   },
   {
@@ -512,8 +512,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Lunch Rush",
     img: "dOmcjg5.png",
     opts: {
-      series: [ "h" ],
-      stage: ["s1"]
+      cat: [ "h" ],
+      season: ["s1"]
     }
   },
   {
@@ -552,8 +552,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Masaru Bakugo",
     img: "3bROdlE.png",
     opts: {
-      series: [ "civ" ],
-      stage: ["s3"]
+      cat: [ "civ" ],
+      season: ["s3"]
     }
   },
   {
@@ -592,8 +592,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Mika Jirou",
     img: "F0fwMqw.png",
     opts: {
-      series: [ "civ" ],
-      stage: ["s3"]
+      cat: [ "civ" ],
+      season: ["s3"]
     }
   },
   {
@@ -632,8 +632,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Mitsuki Bakugo",
     img: "oL9aZhJ.png",
     opts: {
-      series: [ "civ" ],
-      stage: ["s3"]
+      cat: [ "civ" ],
+      season: ["s3"]
     }
   },
   {
@@ -672,8 +672,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Ms. Joke",
     img: "wcNzs1s.png",
     opts: {
-      series: [ "h" ],
-      stage: ["s3"]
+      cat: [ "h" ],
+      season: ["s3"]
     }
   },
   {
@@ -712,8 +712,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Nana Shimura",
     img: "EXJlvwh.png",
     opts: {
-      series: [ "h" ],
-      stage: ["s3"]
+      cat: [ "h" ],
+      season: ["s3"]
     }
   },
   {
@@ -752,8 +752,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Nezu",
     img: "o23cbWt.png",
     opts: {
-      series: [ "h" ],
-      stage: ["s1"]
+      cat: [ "h" ],
+      season: ["s1"]
     }
   },
   {
@@ -792,8 +792,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Overhaul",
     img: "wMjkK0q.png",
     opts: {
-      series: [ "v" ],
-      stage: ["s3"]
+      cat: [ "v" ],
+      season: ["s3"]
     }
   },
   {
@@ -832,8 +832,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Ragdoll",
     img: "BJmtMZR.png",
     opts: {
-      series: [ "h" ],
-      stage: ["s3"]
+      cat: [ "h" ],
+      season: ["s3"]
     }
   },
   {
@@ -872,8 +872,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Romero Fujimi",
     img: "R2c9NbP.png",
     opts: {
-      series: [ "nua" ],
-      stage: ["ovamov"]
+      cat: [ "nua" ],
+      season: ["ovamov"]
     }
   },
   {
@@ -912,8 +912,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Satsuki Asui",
     img: "qcukfn1.png",
     opts: {
-      series: [ "civ" ],
-      stage: ["ovamov"]
+      cat: [ "civ" ],
+      season: ["ovamov"]
     }
   },
   {
@@ -952,8 +952,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Shihai Kuroiro",
     img: "tyRmCUd.png",
     opts: {
-      series: [ "1b" ],
-      stage: ["s2"]
+      cat: [ "1b" ],
+      season: ["s2"]
     }
   },
   {
@@ -992,8 +992,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Spinner",
     img: "fP7G0zr.png",
     opts: {
-      series: [ "v" ],
-      stage: ["s2"]
+      cat: [ "v" ],
+      season: ["s2"]
     }
   },
   {
@@ -1032,8 +1032,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Tetsutetsu Tetsutetetsu",
     img: "GtKQsdX.png",
     opts: {
-      series: [ "1b" ],
-      stage: ["s2"]
+      cat: [ "1b" ],
+      season: ["s2"]
     }
   },
   {
@@ -1072,8 +1072,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Tsuyu Asui",
     img: "rS4DlvR.png",
     opts: {
-      series: [ "1a" ],
-      stage: ["s1"]
+      cat: [ "1a" ],
+      season: ["s1"]
     }
   },
   {
@@ -1120,8 +1120,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Yokumiro Mera",
     img: "Ggg9mrj.png",
     opts: {
-      series: [ "civ" ],
-      stage: ["s3"]
+      cat: [ "civ" ],
+      season: ["s3"]
     }
   },
   {
